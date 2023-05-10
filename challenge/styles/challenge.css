@@ -1,0 +1,53 @@
+
+body {
+    background-color: rgb(230, 159, 187) ;
+}
+
+img {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.centered {
+    width: 33%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#heading {
+    color: white ;
+}
+
+#heading span:hover {
+    color: black;
+}
+
+#quote1 {
+    color: white;
+}
+
+#name1 {
+    color: white;
+}
+
+#principles {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.65em;
+}
+
+#quote2 {
+    color: white;
+    font-weight: lighter;
+    line-height: 1.4em;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#name2 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
