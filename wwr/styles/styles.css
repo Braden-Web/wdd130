@@ -44,7 +44,7 @@ header {
 }
 
 .book {
-    background-color: #C7DDE6;
+    background-color: rgb(224, 224, 224);
     color: black;
     text-decoration: none;
     font-size: 18px;
@@ -59,7 +59,7 @@ header {
 }
 
 .join {
-    background-color: #C7DDE6;
+    background-color: rgb(224, 224, 224);
     color: black;
     text-decoration: none;
     font-size: 18px;
