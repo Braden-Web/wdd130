@@ -223,6 +223,47 @@ nav {
     margin-top: 100px;
 }
 
+#qa {
+    text-align: center;
+    color: black;
+}
+
+#subqa {
+    text-align: center;
+    color: black;
+}
+
+.answer {
+    margin-left: 2em;
+}
+
+#qaparent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 2em;
+}
+
+#qacontainer {
+    grid-column: 1/3;
+    grid-row: 1/2;
+}
+
+#qaimages {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-column: 3/4;
+    grid-row: 1/2;
+    align-items: center;
+    justify-items: center;
+}
+
+.sidebarimage {
+    display: block;
+    max-height: 500px;
+}
+
 .home-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
