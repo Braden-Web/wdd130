@@ -91,3 +91,19 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
 }
+
+#banner3 {
+    grid-area: 1/2/2/3;
+}
+
+#banner4 {
+    grid-area: 2/2/3/3;
+}
+
+#banner5 {
+    grid-area: 1/2/2/3;
+}
+
+#banner6 {
+    grid-area: 2/2/3/3;
+}
